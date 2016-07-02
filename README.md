@@ -10,9 +10,8 @@ weather app which can access city/cities weather data using yahoo external APIs
 
 # Consume API
 
-First Method: Dynamic Method
-
 POST : http://localhost:9002/weathers
+
 [  
    {  
       "city":"Delhi"
@@ -23,13 +22,13 @@ POST : http://localhost:9002/weathers
 ]
 
 OUTPUT:
+
 {
   "Delhi": 27,
   "Gurgaon": 27
 }
 
 -----------------------------------------------------------
-Second Method: Static - Hardcoded Cities(Delhi, Gurgaon)
 
 GET : http://localhost:9002/weathers
 

@@ -3,7 +3,9 @@ weather app which can access city/cities weather data using yahoo external APIs
 
 # Install
 1 > Go to the application root.
+
 2 > Run 'npm install'
+
 3 > Run 'node app'
 
 # Consume API

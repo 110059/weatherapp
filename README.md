@@ -11,7 +11,6 @@ weather app which can access city/cities weather data using yahoo external APIs
 # Consume API
 
 POST : http://localhost:9002/weathers
-
 [  
    {  
       "city":"Delhi"
